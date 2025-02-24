@@ -301,4 +301,4 @@ DerivedData/
 ### Xcode Patch ###
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.gitignore.io/api/dart,xcode,android,flutter
+# End of https://www.gitignore.io/api/dart,xcode,android,flutter.metadata
